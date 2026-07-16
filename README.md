@@ -20,12 +20,13 @@ This project implements a machine learning framework for predicting the mechanic
 ## 📂 Repository Structure
 
 ```
-CAPSTONE-PROJECT-IIT-BHU/
+CAPSTONE-PROJECT-IIT-BHU-/
 │
-├── CAPSTONE_PROJECT.ipynb        # Complete implementation
-├── NIMS_Fatigue.csv              # Dataset
-├── README.md                     # Project documentation
-└── requirements.txt              # Required Python packages (optional)
+├── ML-for-FeC-Phase-Diagram.ipynb
+├── NIMS_Fatigue.csv
+├── README.md
+├── requirements.txt
+└── images-outputs/)
 ```
 
 ---
@@ -134,13 +135,13 @@ The notebook generates:
 Clone the repository
 
 ```bash
-git clone https://github.com/Lakshmisingh789/CAPSTONE-PROJECT-IIT-BHU.git
+git clone https://github.com/LakshmiSingh789/CAPSTONE-PROJECT-IIT-BHU-.git
 ```
 
 Move into the project folder
 
 ```bash
-cd CAPSTONE-PROJECT-IIT-BHU
+cd CAPSTONE-PROJECT-IIT-BHU-
 ```
 
 Install dependencies
@@ -152,7 +153,7 @@ pip install -r requirements.txt
 Open the notebook
 
 ```bash
-jupyter notebook CAPSTONE_PROJECT.ipynb
+jupyter notebook ML-for-FeC-Phase-Diagram.ipynb
 ```
 
 or
